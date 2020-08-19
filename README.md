@@ -1,4 +1,4 @@
-Hi there 👋
+### Hi there 👋
 
 I’m a web developer. My main tech stack: Ruby on Rails, JavaScript [React, Redux]. I’m currently learning Node.js.
 
