@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a web developer. My main tech stack: Ruby on Rails, JavaScript [React, Redux]. I’m currently learning Node.js.
+I’m a web developer. My main tech stack: Ruby on Rails, JavaScript [React, Redux].
 
 I have extensive experience in startups (web, 3 of them were successfully sold). 
 
